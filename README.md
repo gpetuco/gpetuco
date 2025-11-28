@@ -1,9 +1,7 @@
 <h1 align="center">Hello There, I'm Gabriel Frigo Petuco</h1>
 <h3 align="center">A computer science student and a full-stack developer</h3>
 
-- 🔭 I’m currently working with Java (Spring).
-
-- 🌱 I’m currently learning **React**
+- 🔭 I’m currently working with Java (Spring) and React (TypeScript).
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/gpetuco?tab=repositories)
 
