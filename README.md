@@ -16,7 +16,7 @@ Day to day, I work with React, TypeScript and GraphQL on public-sector transpare
 
 ## Featured Projects
 
-### [SkillForge AI](https://github.com/gpetuco/skillforge-ai) · In Progress
+## SkillForge AI · In Progress
 Adaptive workforce certification and assessment platform for regulated industries.  
 Built to evaluate, track and certify professional skills with AI-assisted question generation and public certificate verification.
 
@@ -28,8 +28,8 @@ Built to evaluate, track and certify professional skills with AI-assisted questi
 
 ---
 
-### [Smart SGSI](https://github.com/gpetuco/smart-sgsi)
-Security and compliance management platform aligned with **ISO 27001** and **NIST CSF**.  
+### [Smart SGSI](https://github.com/gpetuco/SGSI)
+Security and compliance management platform.  
 Capstone project built to track security actions, risk workflows and cybersecurity maturity across an organization.
 
 `React` `Node.js` `Express` `MongoDB` `JWT` `Recharts`
@@ -40,7 +40,7 @@ Capstone project built to track security actions, risk workflows and cybersecuri
 
 ---
 
-### [Spotify Music Recommender](https://github.com/gpetuco/spotify-recommender)
+### [Spotify Music Recommender](https://github.com/gpetuco/spotifyRecommender)
 ML-powered recommendation engine using clustering over Spotify audio features to generate personalized music suggestions.
 
 `Python` `scikit-learn` `Flask` `React`
