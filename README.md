@@ -1,25 +1,98 @@
-<h1 align="center">Hello There, I'm Gabriel Frigo Petuco</h1>
-<h3 align="center">A computer science student and a full-stack developer</h3>
+# Hi, I'm Gabriel Frigo Petuco
 
-- 🔭 I’m currently working with Python and React (TypeScript).
+**Software Engineer | React · TypeScript · Java · Python**
 
-- 👨‍💻 All of my projects are available at [here](https://github.com/gpetuco?tab=repositories)
+🇪🇺 EU Citizen — Full EU Work Authorization (No Visa Sponsorship Required)
 
-- 📫 How to reach me **gabrielpetuco@gmail.com**
+I'm a Software Engineer based in Brazil, currently building production software for enterprise and public-sector platforms used by government institutions.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/gabriel-petuco-1a14461ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabrielpetuco" height="30" width="40" /></a>
-</p>
+My professional experience is focused on React, TypeScript, GraphQL, Java, Spring Boot and Oracle, developing data-heavy applications, reusable component architectures, ERP systems, transparency portals and business-critical workflows.
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> ![Node Js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+I'm particularly interested in Full-Stack Product Engineering, modern React and Python ecosystems, scalable web platforms, AI-assisted development and products where reliability, compliance, assessment quality and user impact matter.
 
+---
 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> 
+## Currently Working On
 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" /> 
+* Building production React + TypeScript applications for government finance and transparency platforms.
+* Developing reusable component architectures, GraphQL integrations and Web Components.
+* Contributing to enterprise ERP systems using Java, Spring Boot, SQL and Oracle.
+* Building **SkillForge AI**, an adaptive workforce certification platform inspired by modern assessment and learning systems.
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> <a href="https://www.coursera.org/user/69e4ae79233b116200019fb3f9111083"> <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" /> </a> <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" /> ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+---
+
+## Featured Projects
+
+### SkillForge AI (In Progress)
+
+Adaptive certification and workforce assessment platform designed to help organizations evaluate, track and certify professional skills.
+
+**Tech Stack**
+React · TypeScript · Python · FastAPI · PostgreSQL · Docker
+
+**Key Features**
+
+* Adaptive assessments
+* Skill mastery tracking
+* AI-assisted question generation
+* Certification workflows
+* Public certificate verification
+
+---
+
+### Smart SGSI
+
+Security and compliance management platform for tracking security actions, risk workflows and cybersecurity maturity.
+
+**Tech Stack**
+React · Node.js · Express · MongoDB
+
+**Focus Areas**
+
+* Security action management
+* Compliance workflows
+* Risk tracking
+* Security maturity dashboards
+
+---
+
+### Spotify Music Recommender
+
+Machine Learning recommendation engine that generates personalized music suggestions using clustering techniques and Spotify audio features.
+
+**Tech Stack**
+Python · scikit-learn · Flask · React
+
+---
+
+## Tech Stack
+
+### Frontend
+
+React · TypeScript · JavaScript · GraphQL · Apollo Client · React Hook Form · Zod · Web Components · HTML · CSS
+
+### Backend
+
+Python · FastAPI · Java · Spring Boot · Node.js · Express · REST APIs
+
+### Databases
+
+PostgreSQL · Oracle · MySQL · MongoDB
+
+### Engineering Practices
+
+Git · Code Reviews · Debugging · Agile Development · Production Releases · AI-Assisted Development
+
+### Data & Machine Learning
+
+Pandas · NumPy · scikit-learn
+
+---
+
+## Contact
+
+📧 Email: [gabrielpetuco@gmail.com](mailto:gabrielpetuco@gmail.com)
+
+💼 LinkedIn: https://linkedin.com/in/gabrielpetuco
+
+🐙 GitHub: https://github.com/gpetuco
